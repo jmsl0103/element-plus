@@ -1,5 +1,5 @@
 <template>
-  <el-row :gutter="20">
+  <el-row :offset="4" :gutter="20">
     <el-col :span="6"><div class="grid-content ep-bg-purple" /></el-col>
     <el-col :span="6"><div class="grid-content ep-bg-purple" /></el-col>
     <el-col :span="6"><div class="grid-content ep-bg-purple" /></el-col>
